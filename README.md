@@ -14,6 +14,6 @@ Deeplearning.AI short course 강의 내용 정리본입니다.
 |Agents|API tool|[blog](https://zero-ai.tistory.com/34)|
 ---
 
-# LangChain-for-LLM-Applications
-Practice code about LangChain Framework with Deeplearning.Ai short course lecture.
+<!-- # LangChain-for-LLM-Applications
+Practice code about LangChain Framework with Deeplearning.Ai short course lecture. -->
 
